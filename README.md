@@ -37,5 +37,5 @@ Este proyecto fue construido utilizando una arquitectura moderna de *backend* y 
 ### Enlaces
 | Frontend | https://sport-meet-front.vercel.app |
 | :--- | :--- |
-| **Backend** | https://sport-meet-front.vercel.app|
+| **Backend** | https://sportmeet-kjh8.onrender.com|
 | **Base de datos** | https://supabase.com/dashboard/project/cxbfnskwjemlhtiqwnqy |
