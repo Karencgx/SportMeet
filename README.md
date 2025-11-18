@@ -14,6 +14,7 @@ Este proyecto fue construido utilizando una arquitectura moderna de *backend* y 
 
 | Tecnología | Descripción |
 | :--- | :--- |
+| **JavaScript** | Lenguaje de programación. |
 | **Node.js** | Entorno de ejecución de JavaScript. |
 | **Express.js** | Framework web rápido y minimalista para Node.js. |
 
